@@ -1,16 +1,15 @@
-# quran_app
+# 📖 Tajweed AI – Quran Learning App
 
-A new Flutter project.
+An AI-powered app to help users learn and practice Quran Tajweed.
 
-## Getting Started
+## ✨ Features
+- 🧠 AI-generated Tajweed lessons  
+- 🎙️ Voice recognition for recitation feedback  
+- 📑 Interactive lesson pages (with Markdown)  
+- ✨ Highlighting & note-taking features  
+- 📊 Progress tracking  
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+- Flutter (Dart)  
+- Generative AI APIs (LLMs for Tajweed guidance)  
+- Django (Auth, Database)  
